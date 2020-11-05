@@ -34,7 +34,7 @@ Are you interested in styling your README.md to make it look nice? Don't know ho
 3. Send a link for your repository to your Squad Leader.
 4. After your have been approved, clone this new repository down to your machine.
 5. CD into the project directory and touch ```index.html```, ```style.css``` and ```script.js``` files.
-6. Test a commit and push it to make sure everything is connected with ```git commit -m "Go Bees!"```.
+6. Test a commit and push it to make sure everything is connected with ```git commit -m "My Garnet Project 1!"```.
 
 Note: Your repository should **not** be called `project-1`! Think of a name for your application, and then name your repository after your application. 
 
@@ -90,7 +90,7 @@ Your presentation should **NOT**:
 
 You will be sharing your project and your code.  Be prepared to answer questions from the instructors and other students.
 
-Did you read all of the directions before starting? If so write `git commit -m "bee's bee buzz'n"` instead of `git commit -m "first commit"` for your first commit.
+Did you read all of the directions before starting? If so write `git commit -m "My Garnet Project 1"` instead of `git commit -m "first commit"` for your first commit.
 
 ### Step 7: Help and Support
 
