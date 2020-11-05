@@ -1,4 +1,12 @@
 
+| Project 1 Important Dates | Day      | Date       |
+|---------------------------|---       |---         |
+| Project Prompt Delivered  | Monday   | 11/09/2020 |
+| Project Pitches           | Tuesday  | 11/20/2020 |
+| Project Deployment        | Tuesday  | 11/17/2020 |
+| Project Presentations     | Tuesday  | 11/17/2020 |
+
+
 # Project #1: Your First Application
 
 ### STEP 1: Read the Directions
