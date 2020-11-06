@@ -71,7 +71,6 @@ Below is a non-exhaustive list of some free APIs you can use. There are _many_ A
 - Look into [localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) so you can save data to the user's browser 
 - Add a second API.
 - Add creative use of event listeners and UI interaction.
-- Add media queries for responsive design.
 - Add animations.
 - Get input from a UX student on how to make your app have intuitive UI and design.
 
