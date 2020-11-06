@@ -1,4 +1,4 @@
-| **Steve** | **Corey** | **Tara/Jordan** |
+| **Steve** | **Rachel** | **Corey** |
 | :-------: | :---------: | :-----------: |
 |  Robert   |    Jeff    |   Sean   |
 |  Barnett  |   Zach   |    Cassandra    |
