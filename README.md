@@ -28,8 +28,8 @@ Before you start any actual coding, you must meet with your Squad Leader for ~10
 Are you interested in styling your README.md to make it look nice? Don't know how to include photos or create links? Check out this [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)!
 
 ### STEP 3: Make a New Repo
-1. [Make a new enterprise GitHub repo for your project](https://help.github.com/articles/create-a-repo/). **DO NOT FORK THIS REPO.** 
-2. This new repo should be under your GA Enterprise Github, NOT your personal account.
+1. [Make a new **personal** GitHub repo for your project](https://help.github.com/articles/create-a-repo/). **DO NOT FORK THIS REPO.** 
+2. This new repo should be under your **personal** Github, NOT your GA General Assembly Github account.
 2. Make sure your new repo is set to "Public" and initialize it with a README.md file. **This will be your project worksheet.**
 3. Send a link for your repository to your Squad Leader.
 4. After your have been approved, clone this new repository down to your machine.
@@ -62,7 +62,7 @@ Below is a non-exhaustive list of some free APIs you can use. There are _many_ A
   1. Card Deck: https://deckofcardsapi.com/
   1. City of Chicago: https://data.cityofchicago.org/
   1. Beer: https://www.brewerydb.com/developers
-  1. Chuck Norris: http://www.icndb.com/
+  1. NYC Open Data: https://opendata.cityofnewyork.us/
   1. Rick and Morty: https://rickandmortyapi.com/documentation/#rest
   
 [This site](https://github.com/toddmotto/public-apis) lists a collection APIs as well. Take a look through their libraries and try to find one that interests you. Please note, however, that many APIs will require an authentication key, and some APIs require payment. We **highly suggest** using a free API for your first project dealing with one.
