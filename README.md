@@ -29,7 +29,7 @@ Are you interested in styling your README.md to make it look nice? Don't know ho
 
 ### STEP 3: Make a New Repo
 1. [Make a new **personal** GitHub repo for your project](https://help.github.com/articles/create-a-repo/). **DO NOT FORK THIS REPO.** 
-2. This new repo should be under your **personal** Github, NOT your GA General Assembly Github account.
+2. This new repo should be under your **personal** Github, NOT your General Assembly Github account.
 2. Make sure your new repo is set to "Public" and initialize it with a README.md file. **This will be your project worksheet.**
 3. Send a link for your repository to your Squad Leader.
 4. After your have been approved, clone this new repository down to your machine.
