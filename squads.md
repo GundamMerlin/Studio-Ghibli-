@@ -3,7 +3,7 @@
 |  David   |  Jeff   |   Fanol   | Gylych |
 |  Mitchel  |  Gary   |    Evyn    | Daisy |
 |  Hunter   | Shelby |    Jeri    | Julio |
-|   Liz   |    Jouh  |     Eric  |  Zac  |
+|   Liz   |    John  |     Eric  |  Zac  |
 |   Michael  |      |    Amy     | Marco |
 
 
