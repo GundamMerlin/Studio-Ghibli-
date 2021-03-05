@@ -33,21 +33,6 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Add second API
 - Use local storage to save user favorites
 
-## Project Schedule
-
-This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
-
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
-
-|  Day | Deliverable | Status
-|---|---| ---|
-|Nov 9| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
-|Nov 10| Project Approval | Incomplete
-|Nov 12| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Nov 13| Pseudocode / actual code | Incomplete
-|Nov 16| MVP | Incomplete
-|Nov 17| Presentations | Incomplete
-
 ## Priority Matrix
 
 Include a full list of features that have been prioritized based on the `Time and Importance` Matrix.  Link this image in a similar manner to your wireframes
