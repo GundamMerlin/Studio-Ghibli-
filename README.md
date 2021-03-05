@@ -93,13 +93,11 @@ Did you read all of the directions before starting? If so write `git commit -m "
 
 ### Step 7: Help and Support
 
-1. Each student will be given 5 (five) tokens, redeemable at any time during regular class time (subject to instructors' schedules), for 20 minutes. **Tokens cannot be transferred between students - there is no secondary market for tokens.**
-
 1. Give at least a 10 minutes heads up to an instructor with the link to your project repo and a link to your `issue` ticket. Instructors will not be holding open office hours during project week. This is to allow you to solve issues and errors you run in to on your own and with your classmates. 
 
-1. [Project approval sign up form](https://docs.google.com/forms/d/e/1FAIpQLSeZ2sjTXCI3w5NDsLt8rDnJlZs79Indj6abNdYBBaynLdCefw/viewform)
+1. [Project approval sign up form](https://forms.gle/3wui5XUMpe18J2RS7)
 
-1. [Sign up here for help with your squad lead.](https://docs.google.com/forms/d/e/1FAIpQLSei27kMlH6M0TsgPN_aUf4rOIFjM53KJsmtq8UEGEBUxfFx_Q/viewform)
+1. [Sign up here for help with your squad lead.](https://forms.gle/6hSN5TNdU36S6pgw7)
 
 ### Step 8: Grading
 
