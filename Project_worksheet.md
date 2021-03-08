@@ -2,15 +2,25 @@
 
 ## Project Name
 
-The name of your project.
+Studio Ghibli Movie Project
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
-
+Allow the user to look up data about Studio Ghibli movies and to see the movie poster and relevant data
 ## API and Data Sample
 
-Specify the API you are using and include a link. Show us a snippet of JSON returned by your API so we know you can access it and get the info you need
+async function infoRequest() {
+  try {
+    const url = `https://ghibliapi.herokuapp.com/films`;
+    const response = await axios.get(url);
+    response.data.forEach(movie => { console.log(movie.title) });
+    displayMovieList(movie.title);
+  } catch (err) {
+    console.log(error.message);
+  }
+}
+infoRequest();
+
 
 ## Wireframes
 
@@ -25,7 +35,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 - Find and use external api 
 - Render data on page 
-- Allow user to choose favorites 
+- Display movie poster
 
 #### PostMVP  
 *These are examples only. Replace with your own Post-MVP features.*
