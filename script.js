@@ -30,8 +30,6 @@ function renderData(movieData) {
   movieClass.appendChild(movieYear)
   movieClass.appendChild(movieDirector)
   movieClass.appendChild(movieDescription)
-    function removeData ()
-// //where to add the remove method?  
 }
 async function chooseMovie(event) {
   try {
