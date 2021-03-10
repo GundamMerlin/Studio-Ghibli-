@@ -16,6 +16,7 @@ async function handleRequest() {
     } catch (err) {
     console.log(error.message);
   }
+// console.log(response)  
 }
 handleRequest();
 const movieClass = document.querySelector(".movieinfo")
@@ -28,16 +29,19 @@ function renderData() {
   let movieYear = document.createElement('h2')
   let movieDirector = document.createElement('h3')
   let movieDescription = document.createElement('p')
-  movieYear.innerText = movie.release_date
-  movieDirector.innerText = movie.director
+  movieYear.innerText = `Release Year: ${movie.release_date}`
+  movieDirector.innerText =`Director: ${movie.director}`
   movieDescription.innerText = movie.description
   movieClass.appendChild(movieYear)
   movieClass.appendChild(movieDirector)
-    movieClass.appendChild(movieDescription)
-    let imageDiv = document.createElement('img')
+  movieClass.appendChild(movieDescription)
+  let imageDiv = document.createElement('img')
+  imageDiv.setAttribute('class', 'poster')
+  movieDescription.setAttribute('class','description')
     let displayImage;
   for (let key in images) {
     if (movie.id === key) {
+      console.log(images[key])
       displayImage = images[key].image
     }
   }
@@ -59,6 +63,7 @@ async function chooseMovie(event) {
   }
 }
 movieList.addEventListener('change', chooseMovie)
+
 
 
 

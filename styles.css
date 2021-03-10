@@ -1,22 +1,62 @@
-body {
-  background-color: #0687ED;
-}
-div {
+.logoholder {
   display: flex;
   justify-content: center;
-  flex-direction: column;
-  background-color: #0687ED;
-  text-align: center;
-  color:white
 }
+.logo {
+  color: #0CBABA;
+  border-style: solid;
+  border-radius: 10px;
 
-img {
-  display:block
-  margin-left: auto;
-  margin-right: auto;
+}
+.poster {
+  color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+  max-height: 250px;
+  max-width: 180px;
+  marg
+}
+body {
+  background-color: #0687ed;
+}
+.movieinfo {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 12px;
+  background-color: #0687ed;
+  text-align: center;
+  color: white;
+  /* border-style: solid;
+  border-width: 4px; */
+  border-radius: 4px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 select {
-  position; center
+  display: flex;
   text-align: center;
   justify-content: center;
+  font-family: "Josefin Sans", sans-serif;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-top: 3px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: ;
+
 }
+.dropdown {
+  display: flex;
+  justify-content: center;
+  font-family: "Josefin Sans", sans-serif;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-family: "Josefin Sans", sans-serif;
+  color: white;
+}
+@media
