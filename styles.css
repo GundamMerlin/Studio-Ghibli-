@@ -29,8 +29,8 @@ body {
   /* border-style: solid;
   border-width: 4px; */
   border-radius: 4px;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 150px;
+  padding-right: 150px;
 }
 select {
   display: flex;
@@ -58,5 +58,24 @@ footer {
   width: 100%;
   font-family: "Josefin Sans", sans-serif;
   color: white;
+  background-color: #EF959C;
 }
-@media
+@media only screen and (max-width: 600px){
+    body {
+  background-color: #EF959C;
+  }
+    .movieinfo {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 12px;
+  background-color:  #EF959C;
+  text-align: center;
+  color: white;
+  /* border-style: solid;
+  border-width: 4px; */
+  border-radius: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  }
+}
+
+

@@ -16,7 +16,6 @@ async function handleRequest() {
     } catch (err) {
     console.log(error.message);
   }
-// console.log(response)  
 }
 handleRequest();
 const movieClass = document.querySelector(".movieinfo")
@@ -58,8 +57,6 @@ async function chooseMovie(event) {
     console.log(response);
   } catch (err) {
     console.log(err.message)
-    // console.log('This is not Working');
-    // console.log(err)
   }
 }
 movieList.addEventListener('change', chooseMovie)
